@@ -12,4 +12,4 @@ I'm transitioning back into tech after a few years in ministry, with a focus on 
 - **[Project Name]**: [1-line description with GitHub link]
 - **[Upcoming Project]**: In progress - analysis of [dataset]
 
-  Let's connect on [LinkedIn](www.linkedin.com/in/jake-whitehead-b6a1b4122).
+  Let's connect on LinkedIn.
